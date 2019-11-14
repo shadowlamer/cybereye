@@ -4,7 +4,7 @@ This is simple 3d engine written in java in 2001 (may be my first java program).
 Source was lost and reverse engineered. It can render 3d models in .ASC format.
 I'm just going to leave this here.
 
-
+<img src="https://raw.githubusercontent.com/shadowlamer/cybereye/master/screenshot.png" height="200"/>
 
 ### Compiling
 
